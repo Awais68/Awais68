@@ -17,32 +17,7 @@ that automate workflows and replace manual processes.
 - **LinkedIn Automation** — AI-powered outreach systems (vGTM)
 - **Cloud Infrastructure** — AWS, Vercel, Railway, Docker deployments
 
----
 
-## 🛠 Tech Stack
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat&logo=chainlink&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
 
 ## 🚀 Featured Projects
 
@@ -100,19 +75,8 @@ that automate workflows and replace manual processes.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-### Featured Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**vGTM**](https://github.com/Awais68/vGTM) | AI-powered LinkedIn outreach system — personalized messages, follow-up sequences, auto-proposal generation | Next.js · TypeScript · HeyReach API · Claude/OpenAI |
-| **AI Agent Boilerplate** | Multi-step autonomous agent with tool calling, memory, and streaming UI | LangChain · Node.js · OpenAI |
-| **MERN SaaS Starter** | Full-stack boilerplate with auth, payments, and cloud deploy | MERN · Stripe · Supabase · Vercel |
-
----
-
-### GitHub Stats
 
 <!-- ✅ FIX: Using alternative stats provider that works reliably in 2025-2026 -->
 
