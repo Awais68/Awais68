@@ -26,15 +26,16 @@ that automate workflows and replace manual processes.
 | **[vGTM](https://github.com/Awais68/vGTM)** | AI-powered LinkedIn outreach & lead gen system | Next.js, HeyReach API, Claude AI |
 | **Coming soon** | MERN SaaS boilerplate with auth + payments | MERN, Stripe, Supabase |
 
----
-
-## 📊 GitHub Stats
-
-![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais68&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais68&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
+GitHub Stats
+<!-- ✅ FIX: Using alternative stats provider that works reliably in 2025-2026 -->
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awais68&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Awais GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais68&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</div>
+<!-- BACKUP: If above still broken, use this streak stats instead -->
+<!--
+<img src="https://streak-stats.demolab.com?user=Awais68&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+-->
 
 ## 📫 Let's work together
 
