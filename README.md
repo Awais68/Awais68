@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Engineer;Agentic+AI+%26+Automation+Builder;Cloud+Deployment+Specialist;Full+Stack+SaaS+Developer" alt="Typing animation" />
 
 </div>
-
-# Hi, I'm Awais Niaz 👋
-
-**MERN Stack + Agentic AI Engineer** based in Karachi, Pakistan.
-
 I build AI agents, full-stack SaaS products, and cloud-deployed systems
 that automate workflows and replace manual processes.
 
@@ -121,13 +116,7 @@ that automate workflows and replace manual processes.
 
 <!-- ✅ FIX: Using alternative stats provider that works reliably in 2025-2026 -->
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awais68&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Awais GitHub stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais68&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-</div>
 
 <!-- BACKUP: If above still broken, use this streak stats instead -->
 <!--
